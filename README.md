@@ -35,9 +35,9 @@ Another assumption I made is that the user will not be refreshing the website be
 
 ## Features I would add in the future
 There were multiple features I was unable due to lack of time and I would like to implement them in the future:
-•	Adding checks to the form to prevent incorrect/invalid inputs and also to prevent the user from submitting the form if any of the fields are empty. 
-•	Options for filtering the results on pages such as the tickets list page and staff directory to make it easier for users to find open tickets or employees who work in certain roles.
-•	Accessibilty considerations
-• Unit tests.  
-• To do list page
+- Adding checks to the form to prevent incorrect/invalid inputs and also to prevent the user from submitting the form if any of the fields are empty.
+- Options for filtering the results on pages such as the tickets list page and staff directory to make it easier for users to find open tickets or employees who work in certain roles.
+- Accessibilty considerations
+- Unit tests
+- To do list page
 
