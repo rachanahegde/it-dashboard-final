@@ -39,5 +39,3 @@ export default function Staff() {
     </div>
   );
 }
-
-// TODO staff directory - fix the issue where there's a chunk of white screen on the side when you scroll on TABLET
