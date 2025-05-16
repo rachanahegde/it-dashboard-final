@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "user": "Alice Smith",
+    "issue": "VPN not connecting",
+    "description": "Unable to connect to VPN on MacBook.",
+    "status": "Open",
+    "created": "2025-05-12T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "user": "Bob Lee",
+    "issue": "Figma access",
+    "description": "Lost access to Figma workspace.",
+    "status": "Resolved",
+    "created": "2025-05-10T10:30:00Z"
+  },
+  {
+    "id": 3,
+    "user": "Clara Chen",
+    "issue": "Email sync issue",
+    "description": "Emails are not syncing on mobile.",
+    "status": "In Progress",
+    "created": "2025-05-11T13:20:00Z"
+  },
+  {
+    "id": 4,
+    "user": "David Brown",
+    "issue": "Printer jam",
+    "description": "Main office printer jammed.",
+    "status": "Resolved",
+    "created": "2025-05-08T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "user": "Ella Johnson",
+    "issue": "Calendar not loading",
+    "description": "Google Calendar stuck on loading screen.",
+    "status": "Open",
+    "created": "2025-05-13T09:10:00Z"
+  }
+]

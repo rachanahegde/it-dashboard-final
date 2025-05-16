@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap"); /* Import Montserrat font for body + headers and Red Hat Display font for headers */
+@import "tailwindcss";
+
+@theme {
+  /* Fonts */
+  --font-montserrat: 'Montserrat', 'sans-serif';
+  --font-red-hat: 'Red Hat Display', 'sans-serif';
+  
+  /* Colors */
+  --color-light-grey: #EDEDED;
+  --color-light-green: #5FC301;
+
+  --color-medium-blue: #C2DBFF;
+  --color-light-blue: #DCEAFF
+;
+}

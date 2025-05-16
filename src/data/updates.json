@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Scheduled Maintenance",
+    "description": "Reminder: Network maintenance is scheduled for Saturday, May 18th, from 1:00 AM to 4:00 AM UKT."
+  },
+  {
+    "id": 2,
+    "title": "New Feature Release",
+    "description": "The ticket submission form has been updated to include new options and file attachment support."
+  }
+]
