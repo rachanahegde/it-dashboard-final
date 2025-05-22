@@ -39,8 +39,8 @@ export default function Dashboard() {
 
         {/* Grid rows */}
         <div className="space-y-4 pb-6 w-2xs lg:w-full max-w-5xl mx-auto">
-          {/* Display staff members by looping through array using map */}
-          {tickets.map((ticket) => (
+          {/* Display open tickets by looping through array using map */}
+          {openTickets.map((ticket) => (
             <Ticket
               key={ticket.id}
               issue={ticket.issue}
